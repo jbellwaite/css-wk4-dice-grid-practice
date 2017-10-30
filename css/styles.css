@@ -1,7 +1,8 @@
 body {
   background-color: black;
   display: flex;
-  /*flex-wrap: wrap;*/
+  flex-wrap: wrap;
+  box-sizing: border-box;
 }
 
 .first-face, .second-face, .third-face, .fourth-face, .fifth-face, .sixth-face {
