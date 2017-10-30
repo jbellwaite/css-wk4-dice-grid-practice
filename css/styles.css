@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  display: flex;
+}
+
+.first-face, .second-face, .third-face, .fourth-face, .fifth-face, .six-face {
+  width: 160px;
+  height: 160px;
+  background-color: lightgrey;
+  margin: 20px;
+  border-radius: 20%;
+  box-shadow: 0 10px 0 white inset;
+  /*box-shadow: 0px 0px 10px 10px gray inset;*/
+}
